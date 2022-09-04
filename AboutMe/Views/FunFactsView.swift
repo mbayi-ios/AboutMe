@@ -15,6 +15,7 @@ struct FunFactsView: View {
             Text("Fun Facts")
                 .font(.largeTitle)
                 .fontWeight(.bold)
+                .underline()
 
             Text(funFact)
                 .padding()

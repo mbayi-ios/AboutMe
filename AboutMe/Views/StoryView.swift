@@ -13,6 +13,7 @@ struct StoryView: View {
             Text("My Story")
                 .font(.largeTitle)
                 .fontWeight(.bold)
+                .underline()
                 .padding()
 
             ScrollView {
