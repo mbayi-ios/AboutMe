@@ -4,6 +4,7 @@
 
 |Screenshots | screenshots |
 | ----- | ------ |
-| <img src="https://user-images.githubusercontent.com/91916741/188332012-7ea01c45-274f-4605-ad42-236d82755902.png" width="50%" /> | <img src="https://user-images.githubusercontent.com/91916741/188332016-7a0fa950-33f0-42e1-af31-d650778f5fdc.png" width="50%" /> |
-| <img src="https://user-images.githubusercontent.com/91916741/188332024-586e2e0d-d010-4a86-9bf6-0abd52acb854.png" width="50%" /> | <img src="https://user-images.githubusercontent.com/91916741/188332018-d3c47788-1a13-41cd-8698-62b60345fce0.png" width="50%" /> |
+| <img src="https://user-images.githubusercontent.com/91916741/188332221-7b6e2dfa-27fc-4352-a84e-b2c32412781f.png" width="50%" /> | <img src="https://user-images.githubusercontent.com/91916741/188332223-0dacca5c-4480-4d50-aca6-666427901765.png" width="50%" /> |
+| <img src="https://user-images.githubusercontent.com/91916741/188332224-cbdd9751-9efb-43cd-9dc8-bcab29a8b074.png" width="50%" /> | <img src="https://user-images.githubusercontent.com/91916741/188332226-1afbc766-32c3-4300-9d9e-eb20220c0b1f.png" width="50%" /> |
+
 
